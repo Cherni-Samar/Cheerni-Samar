@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cherni Samar</h1>
-<h3 align="center">A Full Stack Developer passionate about web & mobile technologies</h3>
+<h3 align="center">A Full Stack Engineer passionate about web & mobile technologies</h3>
 
 ---
 
@@ -36,9 +36,8 @@
 
 ---
 
-### 📊 GitHub Stats
-![Cherni-Samar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cherni-Samar&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cherni-Samar&layout=compact&theme=dark)
+### 📊 GitHub Stats (All Time)
+![Cherni-Samar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cherni-Samar&show_icons=true&theme=dark&count_private=true)
 
 ---
 
@@ -47,8 +46,18 @@
 
 ---
 
+### 📈 GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cherni-Samar&theme=github-compact)
+
+---
+
 ### 🏆 GitHub Trophies
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Cherni-Samar&theme=darkhub&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🧠 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cherni-Samar&layout=compact&theme=dark)
 
 ---
 
